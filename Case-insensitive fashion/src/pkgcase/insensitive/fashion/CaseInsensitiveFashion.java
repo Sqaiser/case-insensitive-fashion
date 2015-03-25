@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author general
+ * @author Sameen Qaiser
  */
 public class CaseInsensitiveFashion {
 
